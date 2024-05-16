@@ -1,0 +1,8 @@
+*.env
+*.logs
+/logs
+/plugins
+/storage
+/dags
+.env
+__pycache__
