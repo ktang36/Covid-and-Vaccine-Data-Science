@@ -1,7 +1,7 @@
 # Covid-and-Vaccine-Data-Science
 This project creates a data pipeline in Airflow that extracts covid infection and vaccine data from data.lacity.org and cleans it for use in analysis and visualization via streamlit.
 
-##Installation
+## Installation
 
 1. Airflow
    
